@@ -1,0 +1,6 @@
+1
+resources/picture/game/quest/dialogue/icon_next_bar_disc.png
+0
+0
+26
+13

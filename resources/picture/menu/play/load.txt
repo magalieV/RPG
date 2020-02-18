@@ -1,0 +1,11 @@
+2
+resources/picture/menu/play/resume.png
+560
+252
+793
+365
+resources/picture/menu/play/new_game.png
+560
+741
+793
+189

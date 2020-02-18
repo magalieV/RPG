@@ -1,0 +1,3 @@
+resources/picture/game/break/option_back_final.png
+477
+180

@@ -1,0 +1,16 @@
+3
+resources/picture/game/monster/eat.png
+810
+960
+100
+100
+resources/picture/game/monster/fight.png
+930
+960
+100
+100
+resources/picture/game/monster/quit.png
+1050
+960
+100
+100

@@ -1,0 +1,11 @@
+2
+resources/picture/game/quest/UP.png
+500
+760
+40
+61
+resources/picture/game/quest/DOWN.png
+1394
+760
+40
+61

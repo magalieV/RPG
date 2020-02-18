@@ -1,0 +1,16 @@
+3
+resources/picture/game/break/resume.png
+645
+365
+632
+117
+resources/picture/game/break/save.png
+645
+545
+632
+117
+resources/picture/game/break/exit.png
+645
+725
+632
+117

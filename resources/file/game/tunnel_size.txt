@@ -1,0 +1,8 @@
+S:0:223:1070:442:714:resources/picture/game/underground/begin.png
+U:130:0:700:714:714:resources/picture/game/underground/up.png
+M:0:0:1070:714:714:resources/picture/game/underground/multi.png
+D:0:0:900:484:714:resources/picture/game/underground/coin_down_2.png
+H:0:246:1070:420:714:resources/picture/game/underground/left.png
+R:0:235:900:480:714:resources/picture/game/underground/coin_up_2.png
+G:490:0:897:490:714:resources/picture/game/underground/coin_down.png
+L:167:246:900:405:714:resources/picture/game/underground/coin_up.png

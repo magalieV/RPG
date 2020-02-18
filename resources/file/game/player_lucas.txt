@@ -1,0 +1,4 @@
+8
+resources/picture/game/player/Lucas.png
+256
+256

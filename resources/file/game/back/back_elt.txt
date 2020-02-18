@@ -1,0 +1,7 @@
+2
+resources/picture/game/inventory/final_back.png
+477
+277
+resources/picture/game/quest/final_back.png
+477
+277

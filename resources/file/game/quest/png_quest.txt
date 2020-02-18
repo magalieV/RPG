@@ -1,0 +1,51 @@
+##NEW_PNG:resources/picture/game/player/Joyce.png:300:300:8
+##LEVEL:0:5
+##POS:600:600
+##NEW_QUEST
+##PLAYER_ID:ALL
+##POS:None
+##ELEMENT:5
+##ITEM:7
+##STATUS:1
+##QUEST_ID:8
+##XP:10
+##CONTENT:Kill 5 monsters
+
+##NEW_PNG:resources/picture/game/player/Joyce.png:300:300:8
+##LEVEL:10:15
+##POS:800:3000
+##NEW_QUEST
+##PLAYER_ID:ALL
+##POS:None
+##ELEMENT:8
+##ITEM:3
+##STATUS:1
+##QUEST_ID:9
+##XP:10
+##CONTENT:Pick up 8 red berry
+
+##NEW_PNG:resources/picture/game/player/Walker.png:300:300:8
+##LEVEL:5:10
+##POS:600:5000
+##NEW_QUEST
+##PLAYER_ID:ALL
+##POS:None
+##ELEMENT:8
+##ITEM:2
+##STATUS:2
+##QUEST_ID:9
+##XP:10
+##CONTENT:Pick up 8 purple berry
+
+##NEW_PNG:resources/picture/game/player/Walker.png:300:300:8
+##LEVEL:15:20
+##POS:3000:800
+##NEW_QUEST
+##PLAYER_ID:ALL
+##POS:None
+##ELEMENT:8
+##ITEM:4
+##STATUS:2
+##QUEST_ID:8
+##XP:10
+##CONTENT:Pick up 8 blue berry

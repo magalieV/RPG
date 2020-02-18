@@ -1,0 +1,6 @@
+8
+resources/picture/game/monster/little_monster.png
+0
+0
+300
+300

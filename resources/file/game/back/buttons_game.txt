@@ -1,0 +1,11 @@
+2
+resources/picture/game/inventory/inventory_button.png
+20
+880
+180
+180
+resources/picture/game/quest/quest_button.png
+20
+680
+180
+180

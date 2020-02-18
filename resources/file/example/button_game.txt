@@ -1,0 +1,16 @@
+3
+res/game/build_2.png
+1830
+790
+80
+80
+res/button/tuto.png
+1830
+870
+80
+80
+res/button/quit.png
+1830
+950
+80
+80
